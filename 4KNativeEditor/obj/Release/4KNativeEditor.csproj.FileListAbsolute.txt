@@ -1,0 +1,9 @@
+C:\respaldo2017\4KNativeEditor\4KNativeEditor\bin\Release\4KNativeEditor.exe.config
+C:\respaldo2017\4KNativeEditor\4KNativeEditor\bin\Release\4KNativeEditor.exe
+C:\respaldo2017\4KNativeEditor\4KNativeEditor\bin\Release\4KNativeEditor.pdb
+C:\respaldo2017\4KNativeEditor\4KNativeEditor\obj\Release\_4KNativeEditor.Form1.resources
+C:\respaldo2017\4KNativeEditor\4KNativeEditor\obj\Release\_4KNativeEditor.Properties.Resources.resources
+C:\respaldo2017\4KNativeEditor\4KNativeEditor\obj\Release\4KNativeEditor.csproj.GenerateResource.cache
+C:\respaldo2017\4KNativeEditor\4KNativeEditor\obj\Release\4KNativeEditor.csproj.CoreCompileInputs.cache
+C:\respaldo2017\4KNativeEditor\4KNativeEditor\obj\Release\4KNativeEditor.exe
+C:\respaldo2017\4KNativeEditor\4KNativeEditor\obj\Release\4KNativeEditor.pdb
